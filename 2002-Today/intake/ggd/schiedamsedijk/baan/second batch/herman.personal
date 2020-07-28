@@ -1,0 +1,16 @@
+entry
+=====
+age               : 37 years
+body weight       : 60 kg
+teeth             : all present
+lungs             : normal
+
+
+exit
+====
+age               : 42 years
+body weight       : 110 kg
+teeth             : none
+lungs             ; diminished
+condition         : severe cytokinestorm simptons
+medication        : repeat prescription
